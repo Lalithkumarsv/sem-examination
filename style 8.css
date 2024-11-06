@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header, footer {
+    background: linear-gradient(to right, red, red);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.main-content img {
+    float: left;
+    margin-right: 15px;
+    max-width: 100px;
+}
+.footer-text {
+    font-size: 0.9em;
+}
